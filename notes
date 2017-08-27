@@ -1,0 +1,18 @@
+There are 4 courses
+
+----Course 1 ----
+
+Week 1 - Introduction
+
+Merge sort analysis:
+Use recursion tree, consider 
+  1. the max number of levels of the tree
+  2. at each level, what is the number of subproblems and what's the size of each subproblem
+  3. how many operations outside the recursive call (is the merging for merge sort)
+  
+Analysis of algorithm:
+  fast algorithm = worst case running time grows slowly with the input size
+Holy Grail: linear running time(or close to it)
+
+
+  
