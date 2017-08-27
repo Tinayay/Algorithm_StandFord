@@ -14,5 +14,12 @@ Analysis of algorithm:
   fast algorithm = worst case running time grows slowly with the input size
 Holy Grail: linear running time(or close to it)
 
+Week 2 - Asymptotic analysis
+
+High level idea:
+  to suppress constant factors and lower order terms
+  
+
+
 
   
