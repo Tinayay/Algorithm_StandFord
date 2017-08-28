@@ -19,6 +19,21 @@ Week 2 - Asymptotic analysis
 High level idea:
   to suppress constant factors and lower order terms
   
+Week 4 
+ 
+Chapter 10 - graph and contraction algorithm 
+  due to kargal in early 90S
+  
+ For single round of this algorithm the sucessful rate is >= 1/(N^2), very low. 
+ proof:(make use of following)
+  1. every cut(contracted cut) has at least k edges.
+  2. sum of the degree of all vertices = 2 * #all edges
+ 
+Solution: run the basic a large numbe of times, remember the smallest cut.
+running time O(n^2 m).
+with better ideas,can improve to around O(n^2)
+
+ 
 
 
 
